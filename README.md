@@ -10,6 +10,7 @@ Install Instructions:
 6) Enjoy 
 
 Todos before first Release: 
+- New Models for the UEF Infantry.
 - Complete the Infantry Classes for the all Factions
 - Add new Buildings like Barracks, Infantry Defenses, Bunkers and more
 - Add AI Support and Icons
