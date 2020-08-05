@@ -1,6 +1,9 @@
 # Future-Battlefield-Pack-Infantry-Warfare
 Addon for the Future Battlefield Pack Mod, which adds Infantry and a few new Buildings.
 
+Note: 
+This Mod is currently in huge WIP Stage
+
 Install Instructions:
 1) Download the Zip File
 2) The Zip File and the Folder in it is called: Future-Battlefield-Pack-Infantry Warfare-master
