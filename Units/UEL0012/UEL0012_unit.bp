@@ -99,8 +99,7 @@ UnitBlueprint {
                 Effects = {
                     {
                         Bones = {
-                            'L_Foot',
-                            'R_Foot',
+                            'UEL0106',
                         },
                         Type = 'GroundKickup01',
                     },

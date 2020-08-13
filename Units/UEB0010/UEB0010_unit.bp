@@ -1,9 +1,7 @@
 UnitBlueprint {
     AI = {
         TargetBones = {
-            'UEB0101',
-            'Foot_Right',
-            'Foot_Left',
+            'XEC1301',
         },
     },
     Audio = {
@@ -93,7 +91,7 @@ UnitBlueprint {
                 },
             },
         },
-        PlaceholderMeshName = 'UEB0101',
+        PlaceholderMeshName = 'UEB0010',
         SpawnRandomRotation = false,
         Tarmacs = {
             {
@@ -112,7 +110,7 @@ UnitBlueprint {
                 Width = 12.8,
             },
         },
-        UniformScale = 0.04,
+        UniformScale = 0.015,
     },
     Economy = {
         BuildCostEnergy = 2100,
@@ -135,7 +133,7 @@ UnitBlueprint {
     General = {
         BuildBones = {
             BuildEffectBones = {
-                'Muzzle01',
+                'B_Effect',
             },
         },
         Category = 'Factory',
