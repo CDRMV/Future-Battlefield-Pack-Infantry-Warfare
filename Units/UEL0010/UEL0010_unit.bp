@@ -44,11 +44,11 @@ UnitBlueprint {
         'MOBILE',
 		'INFANTRY',
         'LAND',
+		'BOT',
         'TECH1',
         'DIRECTFIRE',
         'VISIBLETORECON',
         'RECLAIMABLE',
-        'BOT',
         'OVERLAYDIRECTFIRE',
     },
     Defense = {
@@ -192,7 +192,8 @@ UnitBlueprint {
     StrategicIconName = 'icon_bot1_directfire',
     StrategicIconSortPriority = 135,
     Transport = {
-        CanFireFromTransport = true,
+        CanFireFromTransport = false,
+		TransportClass = 1,
     },
     Veteran = {
         Level1 = 2,
